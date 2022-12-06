@@ -806,11 +806,8 @@ h1{
   transform-origin: top;
   opacity: 1;
 transform: scale(1.4);
+
 }
-
-
-
-
 .slide-card:nth-child(2) {
   z-index: 8;
   top: -20px;
