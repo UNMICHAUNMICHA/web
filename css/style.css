@@ -54,6 +54,11 @@ ul {
   overflow-x: hidden;
   transition: all 0.3s ease;
 }
+
+.nunun{
+  padding: 65px 30px 200px 30px;
+}
+
 .section.back-section
 {
   z-index: 1;
@@ -955,3 +960,12 @@ transform: scale(1.4);
 }
 
 
+@media (max-width:767px){
+  .home 
+  {
+    flex: 0 0 100%;
+    top: -100px;
+    bottom: -200px;
+  }
+  
+}
